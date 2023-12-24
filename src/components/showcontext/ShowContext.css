@@ -1,0 +1,8 @@
+.show-context-container {
+    border: black solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}

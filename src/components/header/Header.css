@@ -1,0 +1,11 @@
+.header-block {
+    background-color: black;
+    height: 100px;
+}
+
+.header-title {
+    color: wheat;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 10px;
+}

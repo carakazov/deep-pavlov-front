@@ -1,0 +1,29 @@
+.main-container {
+    display: flex;
+    column-gap: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+}
+.input-container-outer {
+    flex: 7;
+    max-width: 780px;
+}
+
+.show-context-container-outer {
+    flex: 3;
+    max-width: 320px;
+}
+
+.app-button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.app-button:active {
+    background-color: gray;
+}
